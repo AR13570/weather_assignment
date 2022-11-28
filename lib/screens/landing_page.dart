@@ -29,7 +29,7 @@ class _HomePageState extends State<HomePage> {
           child: SingleChildScrollView(
             padding: EdgeInsets.symmetric(horizontal: 10, vertical: 10),
             child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
+              crossAxisAlignment: CrossAxisAlignment.center,
               children: [
                 const Text(
                   "States in India",
