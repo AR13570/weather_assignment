@@ -9,3 +9,7 @@ A flutter application that allows the user to view the weather details of a sele
 - Null Safe
 - Light weight app
 
+## Demo
+![img.png](img.png)
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
